@@ -1,0 +1,19 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "台大倍加團契社"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[params]
+    description = "Python Course"
+    footer = "NTU Navigators 2023, All RIGHTS RESERVED"
+    custom_css = ["css/theme-override.css"]
+
+[markup.goldmark.renderer]
+unsafe = true
