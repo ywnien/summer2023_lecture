@@ -18,7 +18,7 @@
 * `lectures/`: 上課講義
 * `website/`: Hugo 編譯網站的檔案
     * `public/`: 真正在[課程網站](https://ywnien.github.io/)
-* `_index.md`: 課程網站的內容 (hard-link)
+* `_index.md`: 課程網站的內容 (symbolic link)
 
 ### commit message
 * new: 新的內容
