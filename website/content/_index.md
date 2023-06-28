@@ -23,6 +23,7 @@ title: 暑期 Python 班
 
 | 日期  | 公告  |
 |:-:|---|
+| 2023/06/28 | 上課地點在二活 **702** 教室哦 |
 | 2023/06/26 | 歡迎來到倍加團契的程式課！ 6/28 (三) 會開始我們的第一堂課程，大家記得要來參加哦 |
 
 
@@ -31,5 +32,7 @@ title: 暑期 Python 班
 * Lecture 2: 邏輯運算 (施工中)
 
 ## 作業
-* [Homework 1](https://colab.research.google.com/drive/11lArBWAj5sV7bVb1ADvN0t-9NqU_KLML?usp=sharing)
+* [Homework 1](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_1.ipynb)
 
+## 解答
+* [Homework 1 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_1_solution.ipynb)
