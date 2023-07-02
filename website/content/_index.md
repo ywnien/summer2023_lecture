@@ -29,9 +29,9 @@ title: 暑期 Python 班
 
 
 ## 課堂講義
-[**課程錄影**](https://www.youtube.com/playlist?list=PLCmhIJeUVoBWeMAexJeLJTur5FGBgkmKm)
 * [Lecture 1: 變數](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_1_%E8%AE%8A%E6%95%B8.ipynb)
 * Lecture 2: 邏輯運算 (施工中)
+[課程錄影](https://www.youtube.com/playlist?list=PLCmhIJeUVoBWeMAexJeLJTur5FGBgkmKm)
 
 ## 作業
 * [Homework 1](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_1.ipynb)
