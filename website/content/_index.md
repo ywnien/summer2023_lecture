@@ -23,6 +23,8 @@ title: 暑期 Python 班
 
 | 日期  | 公告  |
 |:-:|---|
+| 2023/07/06 | 公布 Homework 2 解答 |
+| 2023/07/05 | 上課地點在二活 **702** 教室哦 |
 | 2023/07/01 | Homework 1 解答公布囉，課程錄影也已經上傳了，連結在課堂講義下面 |
 | 2023/06/28 | 上課地點在二活 **702** 教室哦 |
 | 2023/06/26 | 歡迎來到倍加團契的程式課！ 6/28 (三) 會開始我們的第一堂課程，大家記得要來參加哦 |
@@ -41,3 +43,4 @@ title: 暑期 Python 班
 
 ## 解答
 * [Homework 1 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_1_solution.ipynb)
+* [Homework 2 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_2_solution.ipynb)
