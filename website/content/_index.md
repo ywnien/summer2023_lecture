@@ -23,6 +23,7 @@ title: 暑期 Python 班
 
 | 日期  | 公告  |
 |:-:|---|
+| 2023/07/19 | 上課地點在二活 **606** 教室哦 |
 | 2023/07/12 | 上課地點在二活 **706** 教室哦 |
 | 2023/07/06 | 公布 Homework 2 解答 |
 | 2023/07/05 | 上課地點在二活 **702** 教室哦 |
@@ -36,6 +37,7 @@ title: 暑期 Python 班
 * [Lecture 2: 邏輯運算](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_2_%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97.ipynb)
 * [Lecture 3: 容器](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_3_%E5%AE%B9%E5%99%A8.ipynb)
 * [Lecture 4: 迴圈](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_4_%E8%BF%B4%E5%9C%88.ipynb)
+* [Lecture 5: 函式](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_5_%E5%87%BD%E5%BC%8.ipynb)
 
 ## 課程錄影
 * [連結](https://www.youtube.com/playlist?list=PLCmhIJeUVoBWeMAexJeLJTur5FGBgkmKm)
@@ -45,9 +47,11 @@ title: 暑期 Python 班
 * [Homework 2](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_2.ipynb)
 * [Homework 3](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_3.ipynb)
 * [Homework 4](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_4.ipynb)
+* [Homework 5](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/homework/Homework_5.ipynb)
 
 ## 解答
 * [Homework 1 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_1_solution.ipynb)
 * [Homework 2 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_2_solution.ipynb)
 * [Homework 3 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_3_solution.ipynb)
 * [Homework 4 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_4_solution.ipynb)
+* [Homework 5 solution](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/solution/Homework_5_solution.ipynb)
