@@ -37,7 +37,8 @@ title: 暑期 Python 班
 * [Lecture 2: 邏輯運算](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_2_%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97.ipynb)
 * [Lecture 3: 容器](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_3_%E5%AE%B9%E5%99%A8.ipynb)
 * [Lecture 4: 迴圈](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_4_%E8%BF%B4%E5%9C%88.ipynb)
-* [Lecture 5: 函式](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_5_%E5%87%BD%E5%BC%8.ipynb)
+* [Lecture 5: 函式](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_5_%E5%87%BD%E5%BC%8F.ipynb)
+* [Lecture 6: 套件](https://colab.research.google.com/github/ywnien/summer2023_lecture/blob/main/lectures/Lecture_6_%E5%A5%97%E4%BB%B6.ipynb)
 
 ## 課程錄影
 * [連結](https://www.youtube.com/playlist?list=PLCmhIJeUVoBWeMAexJeLJTur5FGBgkmKm)
